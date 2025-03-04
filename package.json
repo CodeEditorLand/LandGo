@@ -1513,9 +1513,9 @@
 		"@types/deep-equal": "1.0.4",
 		"@types/fs-extra": "11.0.4",
 		"@types/glob": "8.1.0",
-		"@types/node": "22.13.4",
+		"@types/node": "22.13.9",
 		"@types/semver": "7.5.8",
-		"@types/sinon": "17.0.3",
+		"@types/sinon": "17.0.4",
 		"fs-extra": "11.3.0",
 		"glob": "11.0.1",
 		"sinon": "19.0.2"
