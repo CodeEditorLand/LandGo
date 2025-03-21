@@ -1513,12 +1513,12 @@
 		"@types/deep-equal": "1.0.4",
 		"@types/fs-extra": "11.0.4",
 		"@types/glob": "8.1.0",
-		"@types/node": "22.13.9",
+		"@types/node": "22.13.10",
 		"@types/semver": "7.5.8",
 		"@types/sinon": "17.0.4",
 		"fs-extra": "11.3.0",
 		"glob": "11.0.1",
-		"sinon": "19.0.2"
+		"sinon": "19.0.4"
 	},
 	"extensionDependencies": [],
 	"icon": "images/go-logo-blue.png",
